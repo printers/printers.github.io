@@ -1,0 +1,110 @@
+/* Mixins */
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,600,700,500);
+/* Colors */
+a {
+  color: #FB4D4D; }
+  a:hover {
+    color: #FBBD4D; }
+
+.container {
+  text-align: center;
+  padding: 30px;
+  max-width: 1000px;
+  margin: 0 auto; }
+
+#map {
+  height: 450px;
+  width: 100%;
+  margin: 0 auto; }
+
+h1, h2 {
+  font-family: "Raleway";
+  margin: 10px 0 20px;
+  text-transform: uppercase;
+  font-weight: 600; }
+
+.option-wrap {
+  margin: 5px; }
+  .option-wrap span {
+    font-family: "Raleway";
+    font-size: 12px;
+    display: inline-block;
+    padding: 8px 15px;
+    cursor: pointer;
+    margin: 3px 0px;
+    text-transform: uppercase; }
+    .option-wrap span:last-of-type {
+      border-top-right-radius: 3px;
+      border-bottom-right-radius: 3px; }
+    .option-wrap span:first-of-type {
+      border-top-left-radius: 3px;
+      border-bottom-left-radius: 3px; }
+  .option-wrap.two span {
+    width: 150px;
+    margin: 3px -2px !important; }
+
+.active {
+  color: #fff !important;
+  font-weight: 500; }
+
+.color, .location {
+  border: 1px solid #FB4D4D;
+  color: #FB4D4D; }
+  .color.active, .location.active {
+    background: #FB4D4D; }
+
+.color.active:before {
+  content: url("../img/drop-white.png");
+  position: relative;
+  left: -3px;
+  top: 1px; }
+
+.location.active:before {
+  content: url("../img/printer-white.png");
+  position: relative;
+  left: -5px;
+  top: 1px; }
+
+.price {
+  width: 100px;
+  color: #FBBD4D;
+  border: 1px solid #FBBD4D; }
+  .price.active {
+    background: #FBBD4D; }
+
+.title {
+  margin-top: 5px;
+  font-size: 16px;
+  font-weight: 600; }
+  .title img {
+    position: relative;
+    top: -2px;
+    left: -3px; }
+
+.gm-style-iw p {
+  margin: 3px 0; }
+
+/* Table */
+.table {
+  width: 100%;
+  margin: 0 auto;
+  font-size: 13px; }
+
+.head th {
+  font-family: "Raleway";
+  border-top: none !important;
+  text-align: center;
+  cursor: pointer;
+  text-transform: uppercase; }
+  .head th.active-field {
+    background: #FBBD4D !important;
+    color: #fff;
+    font-weight: 500; }
+
+/* Footer */
+.footer {
+  background: #f7f7f7;
+  border-top: 1px solid #eee;
+  margin-top: 10px; }
+
+/*# sourceMappingURL=styles.css.map */

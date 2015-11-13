@@ -4,7 +4,7 @@
 		"name": "Milstein 1 BW", 
 		"printer": "Xerox Phaser 5550DN",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
 		"duplex": "Two-sided",
 		"lat": 42.4512,
@@ -40,7 +40,7 @@
 		"name": "Milstein 2 BW", 
 		"printer": "Xerox Phaser 5550DN",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
 		"duplex": "Two-sided",
 		"lat": 42.4512,
@@ -124,7 +124,7 @@
 		"name": "NYC 1 BW", 
 		"printer": "hp LaserJet 9050",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
 		"duplex": "Two-sided",
 		"lat": 40.7059,
@@ -196,7 +196,7 @@
 		"name": "Sibley 1 B&W (3rd Floor)", 
 		"printer": "Xerox Phaser 5550DN",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
 		"duplex": "Two-sided",
 		"lat": 42.4509,
@@ -220,7 +220,7 @@
 		"name": "Sibley 3 BW (2nd Floor)", 
 		"printer": "hp LaserJet 9050",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
 		"duplex": "Two-sided",
 		"lat": 42.4509,
@@ -244,7 +244,7 @@
 		"name": "Sibley 4 BW (3rd Floor Balcony)", 
 		"printer": "hp LaserJet 9050",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
 		"duplex": "Two-sided",
 		"lat": 42.4509,
@@ -268,7 +268,7 @@
 		"name": "Tjaden 1 bw (2nd Floor)", 
 		"printer": "Xerox Phaser 5550DN",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
 		"duplex": "Two-sided",
 		"lat": 42.4509,
@@ -292,11 +292,11 @@
 		"name": "ACCEL 2nd Floor Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
-		"lat": 42.4450,
-		"lon": -76.4842,
+		"lat": 42.4447,
+		"lon": -76.4840,
 		"location": "engineering"
 	},
 	{ 
@@ -304,11 +304,11 @@
 		"name": "ACCEL 2nd Floor Net-Print 2", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
-		"lat": 42.4450,
-		"lon": -76.4842,
+		"lat": 42.4447,
+		"lon": -76.4840,
 		"location": "engineering"
 	},
 	{ 
@@ -316,7 +316,7 @@
 		"name": "Dyson Warren Netprint 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -325,7 +325,7 @@
 		"name": "AEP-NETPRINT-1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 8,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -334,11 +334,11 @@
 		"name": "AFRICANA Library Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
-		"lat": 42.4574,
-		"lon": -76.4823,
+		"lat": 42.457392,
+		"lon": -76.482214,
 		"location": "central"
 	},
 	{ 
@@ -346,7 +346,7 @@
 		"name": "ANNEX Library Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -355,7 +355,7 @@
 		"name": "Appel Commons Net-Print 1", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4536,
@@ -367,7 +367,7 @@
 		"name": "Carl Becker House Net-Print 1", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4482,
@@ -379,7 +379,7 @@
 		"name": "Carl Becker House Net-Print 2", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4482,
@@ -400,7 +400,7 @@
 		"name": "BIN Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -409,7 +409,7 @@
 		"name": "BIN Net-Print 2", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -418,7 +418,7 @@
 		"name": "BIN Net-Print 3", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -427,7 +427,7 @@
 		"name": "Catherwood lounge", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4472,
@@ -439,7 +439,7 @@
 		"name": "Catherwood Net-Print1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4472,
@@ -451,7 +451,7 @@
 		"name": "Catherwood Net-Print2", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4472,
@@ -463,7 +463,7 @@
 		"name": "Catherwood Net-Print3", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4472,
@@ -496,7 +496,7 @@
 		"name": "CFEM Net-Print 1", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -514,7 +514,7 @@
 		"name": "Chemistry Net-Print 1", 
 		"printer": "HP LaserJet P3005",
 		"cents": 8,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -523,7 +523,7 @@
 		"name": "CIPA Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
 		"duplex": "Two-sided"
 	},
@@ -532,16 +532,18 @@
 		"name": "CS Undergraduate Computing Lab Net-Print 1", 
 		"printer": "HP LaserJet P4515D",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44489,
+		"lon": -76.48115
 	},
 	{ 
 		"id": "cit-mann-mac-1", 
 		"name": "CIT Mann Mac Lab Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4488,
@@ -553,7 +555,7 @@
 		"name": "CIT Mann Mac Lab Net-Print 2", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4488,
@@ -577,7 +579,7 @@
 		"name": "CIT MannLab Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4488,
@@ -589,7 +591,7 @@
 		"name": "CIT MannLab Net-Print 2", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4488,
@@ -613,7 +615,7 @@
 		"name": "CIW Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -622,7 +624,7 @@
 		"name": "CIW Net-Print 2", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -631,11 +633,11 @@
 		"name": "Alice Cook House Net-Print1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
-		"lat": 42.4488,
-		"lon": -76.4896,
+		"lat": 42.44892,
+		"lon": -76.48994,
 		"location": "west"
 	},
 	{ 
@@ -645,7 +647,9 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44489,
+		"lon": -76.48115
 	},
 	{ 
 		"id": "devsoc-cardi", 
@@ -654,14 +658,16 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44807435,
+		"lon": -76.47824407
 	},
 	{ 
 		"id": "devsoc-grad", 
 		"name": "DevSocGrad HP BW", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -670,7 +676,7 @@
 		"name": "Warren DevSoc Grad Net-Print 4", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -679,18 +685,23 @@
 		"name": "Malott MPS Lab Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44822477,
+		"lon": -76.48017526
+
 	},
 	{ 
 		"id": "engr-lib1", 
 		"name": "ENGINEERING Library Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44473342,
+		"lon": -76.48423076
 	},
 	{ 
 		"id": "engr-lib2c", 
@@ -699,25 +710,31 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44473342,
+		"lon": -76.48423076
 	},
 	{ 
 		"id": "engr-lib3d", 
 		"name": "ENGINEERING Library Net-Print 3 Duplex", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44473342,
+		"lon": -76.48423076
 	},
 	{ 
 		"id": "fine-lib1", 
 		"name": "FINE Arts Library Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.45264212,
+		"lon": -76.48099065
 	},
 	{ 
 		"id": "fine-lib2c", 
@@ -726,43 +743,53 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.45264212,
+		"lon": -76.48099065
 	},
 	{ 
 		"id": "gs1", 
 		"name": "Goldwin Smith Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 7,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44911,
+		"lon": -76.48351
 	},
 	{ 
 		"id": "gs2", 
 		"name": "Goldwin Smith Net-Print 2", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 7,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.4492,
+		"lon": -76.4835
 	},
 	{ 
 		"id": "gs3", 
 		"name": "Goldwin Smith Net-Print 3", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 7,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.4491,
+		"lon": -76.4837
 	},
 	{ 
 		"id": "he-cad-4214-b1", 
 		"name": "HE CAD 4214 BW", 
 		"printer": "HP LaserJet 700 M712",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.450398,
+		"lon": -76.478605
 	},
 	{ 
 		"id": "he-cad-4214-c1", 
@@ -771,25 +798,31 @@
 		"cents": 30,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.450398,
+		"lon": -76.478605
 	},
 	{ 
 		"id": "he-cad-t16-b1", 
 		"name": "HE CAD T16 BW", 
 		"printer": "HP LaserJet 5200",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.450398,
+		"lon": -76.478605
 	},
 	{ 
 		"id": "he-cad-t16-b2", 
 		"name": "HE CAD T16 BW Xerox", 
 		"printer": "Xerox Phaser 5500N",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
-		"duplex": "One-sided"
+		"duplex": "One-sided",
+		"lat": 42.450398,
+		"lon": -76.478605
 	},
 	{ 
 		"id": "he-cad-t16-c1", 
@@ -798,7 +831,9 @@
 		"cents": 30,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.450398,
+		"lon": -76.478605
 	},
 	{ 
 		"id": "he-cad-t16-c2", 
@@ -807,16 +842,20 @@
 		"cents": 30,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.450398,
+		"lon": -76.478605
 	},
 	{ 
 		"id": "hollister1", 
 		"name": "HOLLISTER Net-Print 1", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 8,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44365668,
+		"lon": -76.48489058
 	},
 	{ 
 		"id": "hollister2c", 
@@ -825,52 +864,66 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44365668,
+		"lon": -76.48489058
 	},
 	{ 
 		"id": "house5", 
 		"name": "Flora Rose Net-Print 1", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44792394,
+		"lon": -76.48880661
 	},
 	{ 
 		"id": "ilr-lab1", 
 		"name": "ILR Net-Print Main Lab", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 6,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.4467285,
+		"lon": -76.48941278,
+		"lat": 42.44725101,
+		"lon": -76.48121595
 	},
 	{ 
 		"id": "ilr-lab2", 
 		"name": "ILR Net-Print Classroom", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 6,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44725101,
+		"lon": -76.48121595
 	},
 	{ 
 		"id": "keeton-nprint1", 
 		"name": "William Keeton House Net-Print 1", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.4467285,
+		"lon": -76.48941278
 	},
 	{ 
 		"id": "kroch-lib1", 
 		"name": "KROCH Library Asia RR Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.4483399, 
+		"lon": -76.483324
 	},
 	{ 
 		"id": "lacolor1", 
@@ -879,7 +932,9 @@
 		"cents": 30,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.4481908, 
+		"lon": -76.4791076
 	},
 	{ 
 		"id": "laplotter1", 
@@ -888,7 +943,9 @@
 		"cents": 1000,
 		"color": "Color",
 		"dpi": 1200, 
-		"duplex": "One-sided"
+		"duplex": "One-sided",
+		"lat": 42.4481908, 
+		"lon": -76.4791076
 	},
 	{ 
 		"id": "laplotter2", 
@@ -897,23 +954,27 @@
 		"cents": 1000,
 		"color": "Color",
 		"dpi": 1200, 
-		"duplex": "One-sided"
+		"duplex": "One-sided",
+		"lat": 42.4482, 
+		"lon": -76.4792
 	},
 	{ 
 		"id": "laprinter2", 
 		"name": "LANDARCH Net-Print 2", 
 		"printer": "HP LaserJet 5200",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
-		"duplex": "One-sided"
+		"duplex": "One-sided",
+		"lat": 42.44819, 
+		"lon": -76.47911
 	},
 	{ 
 		"id": "law-lib1", 
 		"name": "LAW Library Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -922,9 +983,11 @@
 		"name": "Noyes Lodge Net-Print 1", 
 		"printer": "HP LaserJet P3005",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.446540, 
+		"lon": -76.488057
 	},
 	{ 
 		"id": "mann-bsmt-10c", 
@@ -943,7 +1006,7 @@
 		"name": "MANN Basement Net-Print 8", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4488,
@@ -967,7 +1030,7 @@
 		"name": "MANN Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4488,
@@ -979,7 +1042,7 @@
 		"name": "MANN Net-Print 2", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4488,
@@ -991,7 +1054,7 @@
 		"name": "MANN Net-Print 3", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4488,
@@ -1003,7 +1066,7 @@
 		"name": "MANN Net-Print 4", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4488,
@@ -1027,9 +1090,11 @@
 		"name": "MATH Library Net-Print 2", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.448173, 
+		"lon": -76.480216
 	},
 	{ 
 		"id": "math-lib3c", 
@@ -1038,34 +1103,42 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.448173, 
+		"lon": -76.480216
 	},
 	{ 
 		"id": "mcfaddin1", 
 		"name": "MCFADDIN Net-Print 1", 
 		"printer": "Xerox Phaser 4500DT",
 		"cents": 9,
-		"color": "B/W",
-		"dpi": 600, 
-		"duplex": "Two-sided"
+		"color": "BW",
+		"dpi": 600,
+		"duplex": "Two-sided",
+		"lat": 42.447231, 
+		"lon": -76.488018
 	},
 	{ 
 		"id": "mcfaddin2", 
 		"name": "MCFADDIN Net-Print 2", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.448173, 
+		"lon": -76.480216
 	},
 	{ 
 		"id": "morrison-1", 
 		"name": "Morrison 1", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.447030, 
+		"lon": -76.469486
 	},
 	{ 
 		"id": "mpslab", 
@@ -1074,14 +1147,16 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.448173, 
+		"lon": -76.480216
 	},
 	{ 
 		"id": "mseugrad", 
 		"name": "MS&E Net-Print", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 8,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1090,36 +1165,44 @@
 		"name": "MTH Computer Lab Room 372", 
 		"printer": "HP LaserJet P4515D",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.448173, 
+		"lon": -76.480216
 	},
 	{ 
 		"id": "mth-373", 
 		"name": "MTH Computer Lab Room 373", 
 		"printer": "HP LaserJet P4515D",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.448173, 
+		"lon": -76.480216
 	},
 	{ 
 		"id": "mth-374", 
 		"name": "MTH Computer Lab Room 374", 
 		"printer": "HP LaserJet P4515D",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.448173, 
+		"lon": -76.480216
 	},
 	{ 
 		"id": "mth-375", 
 		"name": "MTH Computer Lab Room 375", 
 		"printer": "HP LaserJet P4515D",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.448173, 
+		"lon": -76.480216
 	},
 	{ 
 		"id": "mth-color", 
@@ -1128,14 +1211,16 @@
 		"cents": 30,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.448173, 
+		"lon": -76.480216
 	},
 	{ 
 		"id": "mth-ilj", 
 		"name": "ILJ", 
 		"printer": "Xerox Phaser 4500DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1144,7 +1229,7 @@
 		"name": "Myron Tayler Hall NetPrint JLPP rm 271", 
 		"printer": "HP LaserJet 4100 Series",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "One-sided"
 	},
@@ -1153,7 +1238,7 @@
 		"name": "Law Review", 
 		"printer": "Xerox Phaser 4500DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1162,7 +1247,7 @@
 		"name": "MTH Moot Court", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1171,7 +1256,7 @@
 		"name": "Myron Taylor Student Org", 
 		"printer": "HP LaserJet 4100 Series",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "One-sided"
 	},
@@ -1180,18 +1265,22 @@
 		"name": "MUSIC Library Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.4501851,
+		"lon": -76.4835893
 	},
 	{ 
 		"id": "mvr159lounge", 
 		"name": "MVR Dean's Lounge Rm 159", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 10,
-		"color": "B/W", 
+		"color": "BW", 
 		"dpi": 600,
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.450201,
+		"lon": -76.479140
 	},
 	{ 
 		"id": "nytech-netprnt1", 
@@ -1200,7 +1289,8 @@
 		"cents": 10,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"location": "ny"
 	},
 	{ 
 		"id": "nytech-netprnt2", 
@@ -1209,43 +1299,52 @@
 		"cents": 10,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"location": "ny"
 	},
 	{ 
 		"id": "olin-lib1", 
 		"name": "OLIN Library Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44788,
+		"lon": -76.4842
 	},
 	{ 
 		"id": "olin-lib2", 
 		"name": "OLIN Library Net-Print 2", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44783,
+		"lon": -76.4841
 	},
 	{ 
 		"id": "olin-lib3", 
 		"name": "OLIN Library Net-Print 3", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44783,
+		"lon": -76.4842
 	},
 	{ 
 		"id": "olin-lib4", 
 		"name": "OLIN Library Net-Print 4", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44782,
+		"lon": -76.4843
 	},
 	{ 
 		"id": "olin-lib5c", 
@@ -1254,32 +1353,38 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44788,
+		"lon": -76.4842
 	},
 	{ 
 		"id": "olin-lib6", 
 		"name": "OLIN Library Media Center Net-Print 6", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44782,
+		"lon": -76.4843
 	},
 	{ 
 		"id": "olin-lib7", 
 		"name": "OLIN Library Graduate Study Net-Print 7", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44784,
+		"lon": -76.4841
 	},
 	{ 
 		"id": "orie-netprint1", 
 		"name": "ORIE Net-Print 1 RH471", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1288,7 +1393,7 @@
 		"name": "ORIE Net-Print 2 RH453", 
 		"printer": "hp LaserJet 4240",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "One-sided"
 	},
@@ -1297,7 +1402,7 @@
 		"name": "ORIE Net-Print 3 RH421", 
 		"printer": "Xerox Phaser 4510N",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "One-sided"
 	},
@@ -1306,18 +1411,22 @@
 		"name": "Phillips 318 Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44463841,
+		"lon": -76.48201525
 	},
 	{ 
 		"id": "phillips-318-2", 
 		"name": "Phillips 318 Net-Print 2", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44463841,
+		"lon": -76.48201525
 	},
 	{ 
 		"id": "phillips-318-3c", 
@@ -1326,16 +1435,20 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44463841,
+		"lon": -76.48201525
 	},
 	{ 
 		"id": "physci-lib1", 
 		"name": "PHYSCI Library Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.449782,
+		"lon": -76.481173
 	},
 	{ 
 		"id": "rhodes163-lp1", 
@@ -1344,34 +1457,42 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.443478,
+		"lon": -76.481534
 	},
 	{ 
 		"id": "rhodes163-lp2", 
 		"name": "Swanson Phaser 4500", 
 		"printer": "Xerox Phaser 4500DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.443478,
+		"lon": -76.481534
 	},
 	{ 
 		"id": "rpcc1", 
 		"name": "RPCC Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.45604596,
+		"lon": -76.47765398
 	},
 	{ 
 		"id": "rpcc2", 
 		"name": "RPCC Net-Print 2", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.45604596,
+		"lon": -76.47768
 	},
 	{ 
 		"id": "rpcc3c", 
@@ -1380,14 +1501,16 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.45604596,
+		"lon": -76.47765398
 	},
 	{ 
 		"id": "sage-205", 
-		"name": "SAGE 205-B/W", 
+		"name": "SAGE 205-BW", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 8,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
@@ -1396,14 +1519,14 @@
 	},
 	{ 
 		"id": "sage-239-bw", 
-		"name": "SAGE 239-B/W", 
+		"name": "SAGE 239-BW", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 8,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
-		"lon": -76.4832,
+		"lon": -76.4830,
 		"location": "central"
 	},
 	{ 
@@ -1415,15 +1538,15 @@
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
-		"lon": -76.4832,
+		"lon": -76.4831,
 		"location": "central"
 	},
 	{ 
 		"id": "sage-301-bw", 
-		"name": "SAGE 301-B/W", 
+		"name": "SAGE 301-BW", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 8,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
@@ -1435,7 +1558,7 @@
 		"name": "SAGE Basement-A", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 8,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
@@ -1447,7 +1570,7 @@
 		"name": "SAGE Basement-B", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 8,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
@@ -1456,10 +1579,10 @@
 	},
 	{ 
 		"id": "sage-lib1-bw", 
-		"name": "SAGE Lib1-B/W", 
+		"name": "SAGE Lib1-BW", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 8,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
@@ -1480,10 +1603,10 @@
 	},
 	{ 
 		"id": "sage-lib2-bw", 
-		"name": "SAGE Lib2-B/W", 
+		"name": "SAGE Lib2-BW", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 8,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
@@ -1495,7 +1618,7 @@
 		"name": "Schwartz Center Net-Print 1", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 7,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1504,7 +1627,7 @@
 		"name": "SHA Net-Print Grad1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1522,7 +1645,7 @@
 		"name": "Marriott SLC Front Desk 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1531,7 +1654,7 @@
 		"name": "Marriott SLC Front Desk 2", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1540,7 +1663,7 @@
 		"name": "Marriott SLC Front Desk 3", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1549,7 +1672,7 @@
 		"name": "Marriott SLC Lounge", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1558,7 +1681,7 @@
 		"name": "Marriott SLC Quick Print", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1567,43 +1690,51 @@
 		"name": "Snee Hall Net Print 1", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.443650,
+		"lon": -76.484896
 	},
 	{ 
 		"id": "stimson1", 
 		"name": "STIMSON Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.447790,
+		"lon": -76.483415
 	},
 	{ 
 		"id": "stimson2", 
 		"name": "STIMSON Net-Print 2", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.447790,
+		"lon": -76.483415
 	},
 	{ 
 		"id": "stimsonres", 
 		"name": "STIMSON Net-Print Resume", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.447790,
+		"lon": -76.483415
 	},
 	{ 
 		"id": "tatkon1", 
 		"name": "TATKON Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4530,
@@ -1616,36 +1747,33 @@
 		"name": "UPSON Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4440,
-		"lon": -76.4825,
-		"location": "north"
+		"lon": -76.4825
 	},
 	{ 
 		"id": "upson2", 
 		"name": "UPSON Net-Print 2", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4440,
-		"lon": -76.4825,
-		"location": "north"
+		"lon": -76.4825
 	},
 	{ 
 		"id": "upson265-lp1", 
 		"name": "Design Studio - HP4200", 
 		"printer": "hp LaserJet 4200",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "One-sided",
 		"lat": 42.4440,
-		"lon": -76.4825,
-		"location": "north"
+		"lon": -76.4825
 	},
 	{ 
 		"id": "upson265-lp3", 
@@ -1656,8 +1784,7 @@
 		"dpi": 1200, 
 		"duplex": "One-sided",
 		"lat": 42.4440,
-		"lon": -76.4825,
-		"location": "north"
+		"lon": -76.4825
 	},
 	{ 
 		"id": "upson3c", 
@@ -1668,27 +1795,25 @@
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4440,
-		"lon": -76.4825,
-		"location": "north"
+		"lon": -76.4825
 	},
 	{ 
 		"id": "upsonres", 
 		"name": "N/A", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4440,
-		"lon": -76.4825,
-		"location": "north"
+		"lon": -76.4825
 	},
 	{ 
 		"id": "uris-lib1", 
 		"name": "URIS Library Net-Print 1", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4478,
@@ -1712,7 +1837,7 @@
 		"name": "URIS Library Net-Print 3", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
@@ -1724,7 +1849,7 @@
 		"name": "URIS Library CLCL Net-Print B&W", 
 		"printer": "HP LaserJet 600 M601 M602 M603",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
@@ -1736,7 +1861,7 @@
 		"name": "URIS Comp Lab Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
@@ -1748,7 +1873,7 @@
 		"name": "URIS Comp Lab Net-Print 2", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
@@ -1760,7 +1885,7 @@
 		"name": "URIS Comp Lab Net-Print 3", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
@@ -1784,7 +1909,7 @@
 		"name": "N/A", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4459,
@@ -1796,45 +1921,55 @@
 		"name": "Vet Wiswall Net-Print BW", 
 		"printer": "HP LaserJet P3010 Series",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44701,
+		"lon": -76.48327
 	},
 	{ 
 		"id": "vet-wiswall-np2", 
 		"name": "Vet Wiswall Net Print 2", 
 		"printer": "Xerox Phaser 4510N",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "One-sided"
+		"duplex": "One-sided",
+		"lat": 42.44701,
+		"lon": -76.48327
 	},
 	{ 
 		"id": "vetlib1", 
 		"name": "Vet Lib Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44701,
+		"lon": -76.48327
 	},
 	{ 
 		"id": "vetlib2", 
 		"name": "Vet Lib Net-Print 2", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44701,
+		"lon": -76.48327
 	},
 	{ 
 		"id": "vetlib3", 
 		"name": "Vet Lib Net-Print 3", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44701,
+		"lon": -76.48327
 	},
 	{ 
 		"id": "vetlib4", 
@@ -1843,7 +1978,9 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44701,
+		"lon": -76.48327
 	},
 	{ 
 		"id": "vetlib5", 
@@ -1852,14 +1989,16 @@
 		"cents": 25,
 		"color": "Color",
 		"dpi": 600, 
-		"duplex": "Two-sided"
+		"duplex": "Two-sided",
+		"lat": 42.44701,
+		"lon": -76.48327
 	},
 	{ 
 		"id": "whitelab", 
 		"name": "WHITELAB Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 6,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided"
 	},
@@ -1868,7 +2007,7 @@
 		"name": "Willard Straight Net-Print 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4466,
@@ -1880,7 +2019,7 @@
 		"name": "Willard Straight Net-Print 2", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600, 
 		"duplex": "Two-sided",
 		"lat": 42.4466,
@@ -1904,7 +2043,7 @@
 		"name": "WSH Browsing Library 1", 
 		"printer": "Xerox Phaser 4510DT",
 		"cents": 9,
-		"color": "B/W",
+		"color": "BW",
 		"dpi": 600,
 		"duplex": "Two-sided",
 		"lat": 42.4466,
